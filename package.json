@@ -81,6 +81,7 @@
     "koa-webpack-dev-middleware": "^1.1.0",
     "less": "^2.7.2",
     "less-loader": "^4.0.5",
+    "less-plugin-npm-import": "^2.1.0",
     "match-require": "2.x",
     "merge2": "~1.0.2",
     "minimist": "1.x",
